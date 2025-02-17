@@ -641,4 +641,18 @@ button:hover {
     }
 
 
+
+    .contact-info li {
+        margin-bottom: 0.2rem;
+    }
+    
+    .address {
+        font-size: 0.2rem;
+        margin: 0;
+    }
+    
+    .credits {
+        font-size: 0.2rem;
+        margin-top: 0rem;
+    }
 }
