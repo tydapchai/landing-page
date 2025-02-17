@@ -16,7 +16,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--background-color);
-    background-image: url("/image/bgr-register-page.png");
+    background-image: url("image/bgr-register-page.png");
     /* Giữ background-image gốc */
     background-position: center;
     background-size: cover;
