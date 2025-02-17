@@ -518,7 +518,7 @@ button:hover {
 
 /* Footer */
 .footer {
-    background-image: linear-gradient( #141320, #320e2b);
+    background-image: linear-gradient(#141320, #320e2b);
     color: white;
     padding: 2rem;
     width: 100%;
@@ -579,6 +579,28 @@ button:hover {
 
     .hero-content {
         flex-direction: column;
+    }
+
+    #hero h1 {
+        font-size: 2rem;
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+
+    .quote-section h2 {
+        font-size: 2rem;
+    }
+    
+    .deadline-info h2{
+        font-size: 2rem;
+    }
+
+    .deadline-info p{
+        font-size: 2rem;
+    }
+
+    .deadline-info h3{
+        font-size: 1rem;
     }
 
     .timeline::after {
